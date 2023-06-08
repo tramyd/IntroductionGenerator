@@ -15,6 +15,6 @@ This app with ask the user for some information about themselves and generate an
 
 ### App Walk-through
 
-<img src="https://i.imgur.com/83ZfHUT.gif" width=250 alt="Demo GIF"><br>
+<img src="https://github.com/tramyd/IntroductionGenerator/blob/main/IntroductionGeneratorWalkthrough.gif" width=350 alt="Demo GIF"><br>
 
 
